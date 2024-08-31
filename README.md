@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi. I'm Rafaela Heer ✨💻</h1>
 
 ###
 
-<p align="left">My name is Rafaela Heer Robinson and I'm a software engineering student, from São Paulo, SP, Brazil</p>
+<p align="left"> Hey!My name is Rafaela Heer Robinson. I'm 20-years-old and currently reside in São Paulo, SP, Brazil. I'm a software engineering student.</p>
 
 ###
 
