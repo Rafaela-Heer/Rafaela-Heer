@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey! My name is Rafaela Heer Robinson. I'm 20-years-old and currently reside in São Paulo, SP, Brazil. I'm a software engineering student.</p>
+<p align="left">Hey! My name is Rafaela Heer Robinson. I'm 21-years-old and currently reside in São Paulo, SP, Brazil. I'm a software engineering student.</p>
 
 ###
 
